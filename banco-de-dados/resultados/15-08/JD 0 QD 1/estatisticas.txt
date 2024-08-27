@@ -1,0 +1,39 @@
+
+Estatísticas naturais das amplitudes: 
+Diferença média entre os valores (Joelho):  17.215648170731704
+Maior diferença entre os valores (Joelho):  41.91709999999999
+Menor diferença entre os valores (Joelho):  0.1457000000000077
+Média da amplitude BSN (Joelho):  2.9146506097560967
+Média da amplitude KIN (Joelho):  5.685921450151057
+Média da amplitude das duas técnicas (Joelho):  4.300286029953577
+Diferença das médias das amplitudes (BSN | KIN) (Joelho):  2.7712708403949606
+
+Diferença média entre os valores (Quadril):  6.409385670731709
+Maior diferença entre os valores (Quadril):  18.10350000000001
+Menor diferença entre os valores (Quadril):  0.04829999999999757
+Média da amplitude BSN (Quadril):  21.9427125
+Média da amplitude KIN (Quadril):  26.29477341389728
+Média da amplitude das duas técnicas (Quadril):  24.118742956948637
+Diferença das médias das amplitudes (BSN | KIN) (Quadril):  4.3520609138972794
+
+Estatísticas MODIFICADAS das amplitudes:
+Diferença média entre os valores (Joelho):  17.215648170731704
+Maior diferença entre os valores (Joelho):  41.91709999999999
+Menor diferença entre os valores (Joelho):  0.1457000000000077
+Média da amplitude BSN (Joelho):  2.9146506097560967
+Média da amplitude KIN (Joelho):  5.685921450151057
+Média da amplitude das duas técnicas (Joelho):  4.300286029953577
+Diferença das médias das amplitudes (BSN | KIN) (Joelho):  2.7712708403949606
+
+Diferença média entre os valores (Quadril):  4.920984451219513
+Maior diferença entre os valores (Quadril):  16.848099999999995
+Menor diferença entre os valores (Quadril):  0.01099999999999568
+Média da amplitude BSN (Quadril):  24.9427125
+Média da amplitude KIN (Quadril):  26.29477341389728
+Média da amplitude das duas técnicas (Quadril):  25.618742956948637
+Diferença das médias das amplitudes (BSN | KIN) (Quadril):  1.3520609138972794
+
+x_ini_csv:  255
+x_fnl_csv:  582
+x_ini_excel:  449
+x_fnl_excel:  779
